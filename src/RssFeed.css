@@ -1,0 +1,17 @@
+.App {
+    text-align: left;
+}
+li {
+    display: block;
+    padding-bottom: 0.5em;
+}
+
+li:first-of-type {
+    border-bottom: solid 1px;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+ul {
+    padding: 0;
+}
