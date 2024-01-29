@@ -1,5 +1,6 @@
 {
   "name": "fnol-jidelnicek",
+  "homepage": "https://www.plesfnol.cz/jidelnicek",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
